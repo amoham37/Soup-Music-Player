@@ -15,6 +15,22 @@
 		2335D9F72225CB7C00A0459B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2335D9F52225CB7C00A0459B /* LaunchScreen.storyboard */; };
 		2335DA022225CB7C00A0459B /* SoupMusicPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2335DA012225CB7C00A0459B /* SoupMusicPlayerTests.swift */; };
 		2335DA0D2225CB7C00A0459B /* SoupMusicPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2335DA0C2225CB7C00A0459B /* SoupMusicPlayerUITests.swift */; };
+		2357F261222DFF8E000F9D9E /* Find My Way Home.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2357F25A222DFF8D000F9D9E /* Find My Way Home.mp3 */; };
+		2357F262222DFF8E000F9D9E /* Otis McMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2357F25B222DFF8D000F9D9E /* Otis McMusic.mp3 */; };
+		2357F263222DFF8E000F9D9E /* Mighty Fine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2357F25C222DFF8E000F9D9E /* Mighty Fine.mp3 */; };
+		2357F264222DFF8E000F9D9E /* A Girl in Oakland.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2357F25D222DFF8E000F9D9E /* A Girl in Oakland.mp3 */; };
+		2357F265222DFF8E000F9D9E /* In Case You Forgot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2357F25E222DFF8E000F9D9E /* In Case You Forgot.mp3 */; };
+		2357F266222DFF8E000F9D9E /* Fingers.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2357F25F222DFF8E000F9D9E /* Fingers.mp3 */; };
+		2357F267222DFF8E000F9D9E /* Scarlet Fire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2357F260222DFF8E000F9D9E /* Scarlet Fire.mp3 */; };
+		236BEE88223714E500C64CF7 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236BEE87223714E500C64CF7 /* DetailViewController.swift */; };
+		236BEE8C2237288E00C64CF7 /* MasterLyricTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236BEE8B2237288E00C64CF7 /* MasterLyricTableViewController.swift */; };
+		236BEE8E223785BF00C64CF7 /* Lyric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236BEE8D223785BF00C64CF7 /* Lyric.swift */; };
+		236BEE9422378F6000C64CF7 /* Chandelier.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 236BEE8F22378F5E00C64CF7 /* Chandelier.mp3 */; };
+		236BEE9522378F6000C64CF7 /* Diamonds.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 236BEE9022378F5F00C64CF7 /* Diamonds.mp3 */; };
+		236BEE9622378F6000C64CF7 /* All of Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 236BEE9122378F5F00C64CF7 /* All of Me.mp3 */; };
+		236BEE9722378F6000C64CF7 /* Let Her Go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 236BEE9222378F6000C64CF7 /* Let Her Go.mp3 */; };
+		236BEE9822378F6000C64CF7 /* Girls Like You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 236BEE9322378F6000C64CF7 /* Girls Like You.mp3 */; };
+		23AA1CB3222B56A7006A532F /* searchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AA1CB2222B56A7006A532F /* searchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +65,22 @@
 		2335DA082225CB7C00A0459B /* SoupMusicPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SoupMusicPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2335DA0C2225CB7C00A0459B /* SoupMusicPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoupMusicPlayerUITests.swift; sourceTree = "<group>"; };
 		2335DA0E2225CB7C00A0459B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2357F25A222DFF8D000F9D9E /* Find My Way Home.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Find My Way Home.mp3"; sourceTree = "<group>"; };
+		2357F25B222DFF8D000F9D9E /* Otis McMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Otis McMusic.mp3"; sourceTree = "<group>"; };
+		2357F25C222DFF8E000F9D9E /* Mighty Fine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mighty Fine.mp3"; sourceTree = "<group>"; };
+		2357F25D222DFF8E000F9D9E /* A Girl in Oakland.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Girl in Oakland.mp3"; sourceTree = "<group>"; };
+		2357F25E222DFF8E000F9D9E /* In Case You Forgot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "In Case You Forgot.mp3"; sourceTree = "<group>"; };
+		2357F25F222DFF8E000F9D9E /* Fingers.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fingers.mp3; sourceTree = "<group>"; };
+		2357F260222DFF8E000F9D9E /* Scarlet Fire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Scarlet Fire.mp3"; sourceTree = "<group>"; };
+		236BEE87223714E500C64CF7 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		236BEE8B2237288E00C64CF7 /* MasterLyricTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterLyricTableViewController.swift; sourceTree = "<group>"; };
+		236BEE8D223785BF00C64CF7 /* Lyric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lyric.swift; sourceTree = "<group>"; };
+		236BEE8F22378F5E00C64CF7 /* Chandelier.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Chandelier.mp3; sourceTree = "<group>"; };
+		236BEE9022378F5F00C64CF7 /* Diamonds.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Diamonds.mp3; sourceTree = "<group>"; };
+		236BEE9122378F5F00C64CF7 /* All of Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "All of Me.mp3"; sourceTree = "<group>"; };
+		236BEE9222378F6000C64CF7 /* Let Her Go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Let Her Go.mp3"; sourceTree = "<group>"; };
+		236BEE9322378F6000C64CF7 /* Girls Like You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Girls Like You.mp3"; sourceTree = "<group>"; };
+		23AA1CB2222B56A7006A532F /* searchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +131,18 @@
 		2335D9E92225CB7900A0459B /* SoupMusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				2357F259222DFF21000F9D9E /* Song */,
 				2335D9EA2225CB7900A0459B /* AppDelegate.swift */,
 				2335D9EC2225CB7900A0459B /* FirstViewController.swift */,
+				236BEE87223714E500C64CF7 /* DetailViewController.swift */,
 				2335D9EE2225CB7900A0459B /* SecondViewController.swift */,
 				2335D9F02225CB7900A0459B /* Main.storyboard */,
+				236BEE8B2237288E00C64CF7 /* MasterLyricTableViewController.swift */,
+				236BEE8D223785BF00C64CF7 /* Lyric.swift */,
 				2335D9F32225CB7C00A0459B /* Assets.xcassets */,
 				2335D9F52225CB7C00A0459B /* LaunchScreen.storyboard */,
 				2335D9F82225CB7C00A0459B /* Info.plist */,
+				23AA1CB2222B56A7006A532F /* searchViewController.swift */,
 			);
 			path = SoupMusicPlayer;
 			sourceTree = "<group>";
@@ -126,6 +163,25 @@
 				2335DA0E2225CB7C00A0459B /* Info.plist */,
 			);
 			path = SoupMusicPlayerUITests;
+			sourceTree = "<group>";
+		};
+		2357F259222DFF21000F9D9E /* Song */ = {
+			isa = PBXGroup;
+			children = (
+				236BEE9122378F5F00C64CF7 /* All of Me.mp3 */,
+				2357F25D222DFF8E000F9D9E /* A Girl in Oakland.mp3 */,
+				236BEE8F22378F5E00C64CF7 /* Chandelier.mp3 */,
+				236BEE9022378F5F00C64CF7 /* Diamonds.mp3 */,
+				2357F25A222DFF8D000F9D9E /* Find My Way Home.mp3 */,
+				2357F25F222DFF8E000F9D9E /* Fingers.mp3 */,
+				236BEE9322378F6000C64CF7 /* Girls Like You.mp3 */,
+				2357F25E222DFF8E000F9D9E /* In Case You Forgot.mp3 */,
+				236BEE9222378F6000C64CF7 /* Let Her Go.mp3 */,
+				2357F25C222DFF8E000F9D9E /* Mighty Fine.mp3 */,
+				2357F25B222DFF8D000F9D9E /* Otis McMusic.mp3 */,
+				2357F260222DFF8E000F9D9E /* Scarlet Fire.mp3 */,
+			);
+			path = Song;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +288,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2357F267222DFF8E000F9D9E /* Scarlet Fire.mp3 in Resources */,
 				2335D9F72225CB7C00A0459B /* LaunchScreen.storyboard in Resources */,
 				2335D9F42225CB7C00A0459B /* Assets.xcassets in Resources */,
+				236BEE9622378F6000C64CF7 /* All of Me.mp3 in Resources */,
 				2335D9F22225CB7900A0459B /* Main.storyboard in Resources */,
+				2357F262222DFF8E000F9D9E /* Otis McMusic.mp3 in Resources */,
+				236BEE9722378F6000C64CF7 /* Let Her Go.mp3 in Resources */,
+				2357F264222DFF8E000F9D9E /* A Girl in Oakland.mp3 in Resources */,
+				2357F266222DFF8E000F9D9E /* Fingers.mp3 in Resources */,
+				2357F265222DFF8E000F9D9E /* In Case You Forgot.mp3 in Resources */,
+				236BEE9822378F6000C64CF7 /* Girls Like You.mp3 in Resources */,
+				2357F261222DFF8E000F9D9E /* Find My Way Home.mp3 in Resources */,
+				236BEE9522378F6000C64CF7 /* Diamonds.mp3 in Resources */,
+				2357F263222DFF8E000F9D9E /* Mighty Fine.mp3 in Resources */,
+				236BEE9422378F6000C64CF7 /* Chandelier.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +329,10 @@
 			files = (
 				2335D9EF2225CB7900A0459B /* SecondViewController.swift in Sources */,
 				2335D9EB2225CB7900A0459B /* AppDelegate.swift in Sources */,
+				23AA1CB3222B56A7006A532F /* searchViewController.swift in Sources */,
+				236BEE8E223785BF00C64CF7 /* Lyric.swift in Sources */,
+				236BEE8C2237288E00C64CF7 /* MasterLyricTableViewController.swift in Sources */,
+				236BEE88223714E500C64CF7 /* DetailViewController.swift in Sources */,
 				2335D9ED2225CB7900A0459B /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
